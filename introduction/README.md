@@ -2,7 +2,7 @@
 
 ## About
 
-Created and idealized with the objective of assisting users in the management and monitoring of their organizational goals, through the application of the MOKR Methodology, which is a combination between the [MAnGve Frameworks](http://mangve.org) and [OKR](https://en.wikipedia.org/wiki/OKR). The MOKR ensures that all users who use it walk in the same direction, with clear priorities, at a constant pace. In addition to being a tool that will certainly add value to organizations, MOKR will also help in the identification of talent, since it is possible to visualize those employees who stand out most during all processes
+Created and idealized with the objective of assisting users in the management and monitoring of their organizational goals, through the application of the MOKR Methodology, which is a combination between the [MAnGve Frameworks](http://mangve.org) and [OKR](https://en.wikipedia.org/wiki/OKR). The MOKR ensures that all users who use it walk in the same direction, with clear priorities, at a constant pace. In addition to being a tool that will certainly add value to organizations, MOKR will also help in the identification of talent, since it is possible to visualize those employees who stand out most during all processes.
 
 In this documentation, the user will find all the necessary information to use our software (even without prior knowledge), so that in a few minutes, only by reading the sections of this document, already be using the MOKR in a satisfactory way.
 
