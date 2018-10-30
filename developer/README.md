@@ -12,7 +12,7 @@ The MOKR is divided into two modules, the client and api. In the client, we have
 >API: was developed using [Laravel](https://laravel.com)
 
 ::: warning IMPORTANT
-It is important to note that because of the use of [Quasar Framework](https://quasar-framework.org") in its development, MOKR is ready to work on any platform, be it mobile (Android or iOS), web or desktop. So the developer does not have to worry about developing another application to communicate with MOKR, if he uses the web version and wants a mobile version, for example, he can simply generate a mobile version and have the same web version functionality, including communication between the two platforms.
+It is important to note that because of the use of [Quasar Framework](https://quasar-framework.org") in it's development, MOKR is ready to work on any platform, be it mobile (Android or iOS), web or desktop. So the developer does not have to worry about developing another application to communicate with MOKR, if he uses the web version and wants a mobile version, for example, he can simply generate a mobile version and have the same web version functionality, including communication between the two platforms.
 :::
 
 Therefore, it is recommended that the developer have notions of <b>JavaScript</b>, <b>HMTL</b> and <b>CSS</b> to work with the Client module and <b>PHP</b> to work with the API module.

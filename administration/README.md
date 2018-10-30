@@ -206,7 +206,7 @@ Fill in the fields and note that you can also upload a file (if necessary and de
 
 <img src="https://goo.gl/5WWqET">
 
-After saving, the result you get is the image above. Note that the impediment has been saved and its situation is open, since it has not yet been forwarded or resolved. Also notice that the page has the Reply button, we will select it and we will be redirected to that page:
+After saving, the result you get is the image above. Note that the impediment has been saved and it's situation is open, since it has not yet been forwarded or resolved. Also notice that the page has the Reply button, we will select it and we will be redirected to that page:
 
 <img src="https://goo.gl/H1jM5G">
 
