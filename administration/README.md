@@ -42,40 +42,39 @@ Once again, having a set of Keys Results helps create a healthy and sustainable 
 
 To create a user, select the Users option in the side menu. You will be redirected to the page that contains list of all users already created on the system. Right after that, select the create button, as shown in the image below.
 
-<img src = "https://uploaddeimagens.com.br/images/001/689/280/full/Screen_Shot_2018-10-25_at_16.51.50.png?1540497685">
+<img src="https://goo.gl/97ybdB">
 
 After you select the create button, you will go directly to the user creation page. Fill in the fields and select the save button:
 
-<img src = "https://uploaddeimagens.com.br/images/001/689/307/original/Screen_Shot_2018-10-25_at_17.07.50.png?1540498180">
+<img src="https://goo.gl/85N78w">
 
 After that, you can already see the newly created user in the system user list:
 
-<img src = "https://uploaddeimagens.com.br/images/001/689/313/original/Screen_Shot_2018-10-25_at_17.08.56.png?1540498286">
-
+<img src="https://goo.gl/Pn1TVx">
 
 ## Creating an Organization
 
 Select the Organizations menu in the side menu, after the create button:
 
-<img src = "https://uploaddeimagens.com.br/images/001/689/411/full/Screen_Shot_2018-10-25_at_17.46.00.png?1540500543">
+<img src="https://goo.gl/2qxdct">
 
 After that fill in the field with the name of the organization you want to create and select the save button:
 
-<img src = "https://uploaddeimagens.com.br/images/001/689/412/full/Screen_Shot_2018-10-25_at_17.46.53.png?1540500611">
+<img src="https://goo.gl/K8UCbE">
 
 You can now view the new organization created in the list of system organizations:
 
-<img src = "https://uploaddeimagens.com.br/images/001/689/414/full/Screen_Shot_2018-10-25_at_17.47.32.png?1540500660">
+<img src="https://goo.gl/XXYQHX">
 
 ## Creating an Organizational Unit
 
 Select Organizational Unit from the side menu then select the new button:
 
-<img src = "https://uploaddeimagens.com.br/images/001/689/440/full/Screen_Shot_2018-10-25_at_17.59.55.png?1540501564">
+<img src="https://goo.gl/DVGgyi">
 
 You'll see a new interface with the title field, parent organizational unit (which is the organization you created earlier), horizontal and vertical weight. Fill in the title field and select the parent organization unit. If you want to change the weights, change them according to what you want, after that select the save button:
 
-<img src = "https://uploaddeimagens.com.br/images/001/689/446/full/Screen_Shot_2018-10-25_at_18.03.09.png?1540501630">
+<img src="https://goo.gl/muH6kj">
 
 ::: warning WEIGHTS
 The weights are how you want to distribute the percentage of each goal in each organizational unit. For example, in the default scenario (with horizontal weight 40 and vertical weight 60 as in the image above) it means that the objectives of the parent organizational unit if completed will represent 40% (with a maximum of 100%) and the children of that unit if have completed their objectives, accounted for 60%.
@@ -83,40 +82,134 @@ The weights are how you want to distribute the percentage of each goal in each o
 
 After saving, you will see the list with the organizational units you created:
 
-<img src = "https://uploaddeimagens.com.br/images/001/689/455/full/Screen_Shot_2018-10-25_at_18.03.59.png?1540502019">
+<img src="https://goo.gl/Sqi7XU">
 
 In addition, you can still select the organization chart button: 
 
-<img src = "https://uploaddeimagens.com.br/images/001/689/457/full/Screen_Shot_2018-10-25_at_18.04.34.png?1540502130">
+<img src="https://goo.gl/tbTyh4">
 
 And view the hierarchical structure of the organization in the form of a tree:
 
-<img src = "https://uploaddeimagens.com.br/images/001/689/458/full/Screen_Shot_2018-10-25_at_18.05.00.png?1540502166">
+<img src="https://goo.gl/iJSXrG">
 
 ## Creating a Team
 
 Select in the side menu the option Times, you will see the list with all the teams that already are registered in the system. After that, select the new button:
 
-<img src = "https://uploaddeimagens.com.br/images/001/689/336/full/Screen_Shot_2018-10-25_at_17.18.05.png?1540498835">
+<img src="https://goo.gl/5M5So5">
 
 Fill in the fields and select the save button. Do not forget, that a team needs a manager and collaborators, as shown in the image below:
 
-<img src = "https://uploaddeimagens.com.br/images/001/689/343/full/Screen_Shot_2018-10-25_at_17.19.25.png?1540498985">
+<img src="https://goo.gl/wVeqbt">
 
 After this process, you can view the team you just created in the list of all system teams:
 
-<img src = "https://uploaddeimagens.com.br/images/001/689/346/full/Screen_Shot_2018-10-25_at_17.20.09.png?1540499053">
+<img src="https://goo.gl/vtbzhX">
 
 ## Creating a Cycle
 
 To create a cycle, select the Cycles option in the side menu, after that select the create button. As with all other menus, you can see the listing of all the cycles created in the system, with the image shown:
 
-<img src = "https://uploaddeimagens.com.br/images/001/689/373/full/Screen_Shot_2018-10-25_at_17.30.12.png?1540499782">
+<img src="https://goo.gl/ag3xL1">
 
 After you have selected the create button, fill in the Title, Cycle (the cycle you are creating, associated cycle), description, start and end date fields, then select the save button:
 
-<img src = "https://uploaddeimagens.com.br/images/001/689/384/full/Screen_Shot_2018-10-25_at_17.31.37.png?1540499979">
+<img src="https://goo.gl/KTHh4j">
 
 You can now view the cycle you just created in the list of all system cycles:
 
-<img src = "https://uploaddeimagens.com.br/images/001/689/387/full/Screen_Shot_2018-10-25_at_17.32.14.png?1540500053">
+<img src="https://goo.gl/KVGheC">
+
+## Creating Objectives, Key Results and Check-Ins
+
+In order to create a objective, it is mandatory that information about Users, Teams, Organizational Unit and Cycle have already been previously registered in the system, without them, you will not be able to create a objective correctly. Knowing this, to create a goal, go to the Objectives side menu and select the create button. Note that the list of created goals is also shown below:
+
+<img src="https://goo.gl/25Y5f1">
+
+After that, you will be redirected to the objective creation page, where you must fill in the fields of it, except for the field 'Objective bound', this may be blank at the time of creating the objective, as exemplified by the image:
+
+<img src="https://goo.gl/XouXGE">
+
+After the fields are filled in, click Save and your objetive will be created. Of note, the creation of Tags for the objective, you can do searches for tags previously created and associated with the objectives, this will be shown a little later. In the meantime, you can see that after you click Save you will be redirected to the Key Results addition page:
+
+::: warning KEY RESULTS
+If you've come this far, you know that the Key Findings are critical to how the system works. Therefore, it is of the utmost importance that you register them soon after creating your Objectives. Key Results are quantitative and indicate the progress of each Objective, which will be reflected in the progress of each Oranizational Unit and which will have an impact on the progress of the Organization as a whole.
+:::
+
+Click Objective info and view this result:
+
+<img src="https://goo.gl/xcEy7F">
+
+> Note the Edit button in the lower right corner of the page. This gives you the ability to edit the objective you are viewing.
+
+Click Add and you will be redirected to the Key Results registration page. Fill in the fields and note that the key results can be numeric:
+
+<img src="https://goo.gl/7ZJNev">
+
+Or they can be booleans:
+
+<img src="https://goo.gl/ZSyedL">
+
+Regardless of the format you choose, the save button is the final step in creating the key result. After selecting it, you will be redirected to this page:
+
+<img src="https://goo.gl/DR4Wqt">
+
+Note the newly created key result and the progress indicator, which will change according to the Check-ins that each key result will receive. To check in a key result, click on the desired key result and get this result:
+
+<img src="https://goo.gl/HnyqEp">
+
+Select the check-in button, then on the Check-In page, select the New button:
+
+<img src="https://goo.gl/FhXcvV">
+
+Note that the current and target fields are already populated according to what you reported in the key result creation. Fill in the current field, description and confidence level, then select the save button.
+
+::: warning TRUST LEVEL
+It's how reliable the information given at check-in is.
+::: 
+
+<img src="https://goo.gl/nRUDNH">
+
+After you save, you will be redirected back to the Check-Ins page and you may notice that the check-ins evolution graph has changed, and below it, a list containing the check-in information is displayed, the progress and the level of confidence:
+
+<img src="https://goo.gl/taqmXn">
+
+::: warning IMPORTANT
+Note that on the same page, you can see the key result again by selecting the Key Result button next to the New button and also clicking the camera on the top of the graph to download the evolution chart.
+:::
+
+We will click on the Key Result button located on the Check-Ins page and we will be redirected to this page:
+
+<img src="https://goo.gl/HLh2wD">
+
+Note that on this page, you can view all the key result information again, including a progress bar indicating the percentage where the key result is. The buttons in the lower right corner give you the option to re-check, remove the key result, refresh it, and re-view the object to which the key result being viewed belongs. Let's click on the goal button, and we will have this page result:
+
+<img src="https://goo.gl/QWcQLL">
+
+You may note that objective progress has changed according to the current progress of the key outcome. The progress of the goal will vary according to the amount of key results.
+
+## Reporting Impediments
+
+In the preview interface of a key result, you will find the Impediments button:
+
+<img src="https://goo.gl/QyRykn">
+
+Select it and get this result:
+
+<img src="https://goo.gl/fTpXw9">
+
+The page of impediments counts on a list of all the impediments for that key result, with the Result of Key and with the button Create, that is the way that we will take now. Select the Create button:
+
+<img src="https://goo.gl/6t8ZEg">
+
+Fill in the fields and note that you can also upload a file (if necessary and desired), after that select the Save button:
+
+<img src="https://goo.gl/5WWqET">
+
+After saving, the result you get is the image above. Note that the impediment has been saved and its situation is open, since it has not yet been forwarded or resolved. Also notice that the page has the Reply button, we will select it and we will be redirected to that page:
+
+<img src="https://goo.gl/H1jM5G">
+
+When filling in the information, note that another Requested has been selected, and that the situation of the impediment is now "Pending". This situation will change until the impediment is with the situation equal to "Closed". You can also once again attach some file that helps you sort out or exemplify why you are with this impediment. Click Save to be redirected to the Impediment page:
+
+<img src="https://goo.gl/m1JocQ">
