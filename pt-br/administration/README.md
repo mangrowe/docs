@@ -216,3 +216,54 @@ Preenchando as informações, note que foi selecionado outro Solicitado, e que a
 
 <img src="https://goo.gl/m1JocQ">
 
+## Pesquisando objetivos
+
+Você tem a opção de pesquisar objetivos por Ciclo, Título, Unidade Organizacional, Responsável e pela Descriçãdo do objetivo. Para isso, selecione o menu Objetivos e em seguida o botão Pesquisar:
+
+<img src="https://goo.gl/4v3gWe">
+
+Vamos agora pesquisar pelo objetivo que criamos na seção onde você aprendeu a criar objetivos:
+
+<img src="https://goo.gl/rmqEKW">
+
+Note que utilizamos o título como filtro para a nossa pesquisa mas, você poderia usar qualquer outro campo como filtro. Mesmo utilizando somente o título, como resultado da pesquisa, você ainda consegue visualizar o Ciclo e o Nível.
+
+## Pesquisando tags
+
+Encontre as tags que você criou e associou aos seus objetivos de maneira prática. Ainda no menu Objetivos, procure pelo botão Tags:
+
+<img src="https://goo.gl/Ci9CgR">
+
+Ao clicar no botão, você verá uma lista com todas as tags anteriormente criadas, vamos buscar pela tag 'objetivoestrategico' e ver o resultado:
+
+<img src="https://goo.gl/dnMiG2">
+
+Como você pode observar, a pesquisa nos retornou a tag que desejamos. Você pode ainda, clicar sobre o resultado da pesquisa e obter essa página como resultado:
+
+<img src="https://goo.gl/6A2ZcW">
+
+No fim das contas, você acabou de pesquisar um objetivo por uma tag, de uma maneira diferente.
+
+## Visualizando o progresso de todos os objetivos de uma organização
+
+Você pode acessar essa funcionalidade acessando o menu Objetivos e selecionando o botão de listagem dos objetivos:
+
+<img src="https://goo.gl/JpvybY">
+
+Ao clicar no botão, essa é a página exibida:
+
+<img src="https://goo.gl/Zgdqrm">
+
+Observe que o retângulo menor, destaca o progresso geral dos objetivos da organização. O retângulo maior, destaca um Objetivo e seus respectivos Resultados Chave. Se você clicar em um dos resultados chave, será redirecionado para fazer um novo Check-In no resultado selecionado.
+
+## Imprimindo tela com progresso de objetivos de uma organização
+
+Você pode ainda, imprimir a página que foi exemplificada na seção anterior. Ao acessar o menu Objetivos, clicar no botão de listagem, você vai ter disponível o botão de impressao:
+
+<img src="https://goo.gl/vNGUjW">
+
+Após clicar no botão de impressão, seu browser irá abrir o gerenciador de impressões. Note o destaque para a página que será impressa: 
+
+<img src="https://goo.gl/iLEZ49">
+
+

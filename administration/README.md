@@ -213,3 +213,53 @@ After saving, the result you get is the image above. Note that the impediment ha
 When filling in the information, note that another Requested has been selected, and that the situation of the impediment is now "Pending". This situation will change until the impediment is with the situation equal to "Closed". You can also once again attach some file that helps you sort out or exemplify why you are with this impediment. Click Save to be redirected to the Impediment page:
 
 <img src="https://goo.gl/m1JocQ">
+
+## Searching for objectives
+
+You have the option to search for objectives by Cycle, Title, Organizational Unit, Responsible and by Description of the objective. To do this, select the Objectives menu and then the Search button:
+
+<img src="https://goo.gl/4v3gWe">
+
+Let's now search for the objective we created in the section where you learned how to create objectives:
+
+<img src="https://goo.gl/rmqEKW">
+
+Note that we use the title as a filter for our search, but you could use any other field as a filter. Even if you only use the title, as a result of the search, you can still see the Cycle and Level.
+
+## Searching tags
+
+Find the tags you've created and have associated them with your objectives in a practical way. Still in the Objectives menu, search for the Tags button:
+
+<img src="https://goo.gl/Ci9CgR">
+
+When you click the button, you will see a list with all the tags previously created, we will search for the tag 'objetivoestrategico' and see the result:
+
+<img src="https://goo.gl/dnMiG2">
+
+As you can see, the search returned the tag we wanted. You can also click on the search result and get that page as a result:
+
+<img src="https://goo.gl/6A2ZcW">
+
+In the end, you've just searched for a objective for a tag, in a different way.
+
+## Viewing the progress of all the objectives of an organization
+
+You can access this functionality by accessing the Objectives menu and selecting the objective list button:
+
+<img src="https://goo.gl/JpvybY">
+
+When you click the button, this is the page displayed:
+
+<img src="https://goo.gl/Zgdqrm">
+
+Note that the smaller rectangle highlights the overall progress of the organization's objectives. The larger rectangle highlights an Objective and their respective Key Findings. If you click on one of the key results, you will be redirected to make a new Check-In on the selected result.
+
+## Printing screen with objectives progress of an organization
+
+You can also print the page that was exemplified in the previous section. When you access the Objectives menu, clicking on the list button, you will have the print button available:
+
+<img src="https://goo.gl/vNGUjW">
+
+After clicking the print button, your browser will open the print manager. Note the highlight for the page to print:
+
+<img src="https://goo.gl/iLEZ49">
