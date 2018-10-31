@@ -263,3 +263,47 @@ You can also print the page that was exemplified in the previous section. When y
 After clicking the print button, your browser will open the print manager. Note the highlight for the page to print:
 
 <img src="https://goo.gl/iLEZ49">
+
+## Dashboard initial
+
+You can tell by logging in to the system that the MOKR home page is made up of two components: one with the organizational progress chart and one containing the latest system updates.
+
+::: warning IMPORTANT
+The latest updates serve to show to all users the modifications that were made, by whom they were made and when they were made in Time, Objective and Key Result.
+:::
+
+Look at the image below:
+
+<img src="https://goo.gl/QkXvsg">
+
+Now let's create a Objective, so you can see how the latest updates work. Note that after the creation of the new target,the last updates component has automatically been updated:
+
+<img src="https://goo.gl/tSKJkz">
+
+Now we're going to check in on one of the key results of the new objective you've created, so you'll realize that the progress chart will also automatically update:
+
+<img src="https://goo.gl/P2c9jR">
+
+You may notice the change in the progress of OU Example and Org Example. So every time you change you check in, you have the progress automatically changed and you will always know how the performances of any organizational unit and also the organization as a whole are.
+
+## Backing up
+
+Backing up your system database is for you to keep the information that is already stored in your database with you. You can make this backup inside the system quite simply and can still download the file generated in the backup. To back up, you will click on the gear located in the upper right corner, as shown in the image:
+
+<img src="https://goo.gl/btAEV8">
+
+After that, you will be redirected to the settings page, select the Backup button:
+
+<img src="https://goo.gl/yYnpec">
+
+With the button selected, you may notice that a backup has already been made, but we will make a new one. Select the'Criar Backup' button and a confirmation message will be generated, click SIM:
+
+<img src="https://goo.gl/Ya1THw">
+
+After you click SIM, the backup will start. After the completion you will see a success message and the backup done, with the image shown:
+
+<img src="https://goo.gl/eQtkHr">
+
+You can even download the backup done. Just click on the cloud located in the right corner, your file will be prepared and then click on 'Baixe aqui o arquivo':
+
+<img src="https://goo.gl/gMU8dV">

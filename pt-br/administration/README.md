@@ -37,7 +37,7 @@ O exemplo 1 é um exemplo simples de um OKR, vamos aumentar um pouco a complexid
 :::
 
 Mais uma vez, ter um conjunto de Keys Results ajuda a criar um OKR saudável e sustentável. Queremos aumentar as visitas semanais, mas queremos que isso seja orgânico, e não por meio de um aumento dos gastos com marketing.
-Os Key Results são cruciais. Mais do que isso, eles definem o que queremos dizer com “Encantar nossos clientes”. Um segundo time ou empresa poderia usar esse mesmo Objetivo com Key Results diferentes. <i><b>(Fonte: [Felipe Castro](https://goo.gl/Ei6ZG3))</b></i>. Now let's see how it all works inside the MOKR.
+Os Key Results são cruciais. Mais do que isso, eles definem o que queremos dizer com “Encantar nossos clientes”. Um segundo time ou empresa poderia usar esse mesmo Objetivo com Key Results diferentes. <i><b>(Fonte: [Felipe Castro](https://goo.gl/Ei6ZG3))</b></i>. Agora vamos ver como isso tudo funciona dentro do MOKR.
 
 ## Criando Usuário
 
@@ -265,5 +265,50 @@ Você pode ainda, imprimir a página que foi exemplificada na seção anterior. 
 Após clicar no botão de impressão, seu browser irá abrir o gerenciador de impressões. Note o destaque para a página que será impressa: 
 
 <img src="https://goo.gl/iLEZ49">
+
+## Dashboard inicial
+
+Você pode perceber ao fazer login no sistema, que a página inicial do MOKR é composta por dois componentes: um com o organograma de progressos da organização e outro contendo as últimas atualizações do sistema.
+
+::: warning IMPORTANTE
+As últimas atualizações servem para mostrar para todos os usuários as modificações que foram feitas, por quem foram feitas e quando foram feitas em Time, Objetivo e Resultado Chave.
+:::
+
+Observe a imagem abaixo:
+
+<img src="https://goo.gl/QkXvsg">
+
+Agora vamos criar um Objetivo, para que você perceba como funciona as últimas atualizações. Observe que após a criação do novo objetivo, automáticamente o componente de últimas atualizações foi atualizado:
+
+<img src="https://goo.gl/tSKJkz">
+
+Agora, vamos fazer um check-in em um dos resultados chave do novo objetivo criado, para que você perceba que o organograma de progresso também será atualizado automaticamente:
+
+<img src="https://goo.gl/P2c9jR">
+
+Você pode notar a mudança no progresso de UO Exemplo e Org Exemplo. Assim, sempre que você mudar fizer um check-in, terá os progressos automaticamente alterados e saberá sempre como andam os desempenhos de qualquer unidade organizacional e também da organização como um todo.
+
+## Fazendo backup
+
+O backup da base de dados do sistema, serve para você guardar consigo as informações que já estão armazenadas na sua base. Você pode fazer este backup dentro do sistema de forma bem simples e ainda pode fazer download do arquivo gerado no backup. Para fazer o backup, você vai clicar na engrenagem localizada no canto direito superior, como mostra a imagem:
+
+<img src="https://goo.gl/btAEV8">
+
+Após isso, você será redirecionado para a página de configurações, nela selecione o botão Backup:
+
+<img src="https://goo.gl/yYnpec">
+
+Já com o botão selecionado, você pode perceber que já existe um backup feito, porém vamos fazer um novo. Selecione o botão 'Criar Backup' e uma mensagem de confirmação será gerada, clique em SIM:
+
+<img src="https://goo.gl/Ya1THw">
+
+Após clicar em SIM, o backup será iniciado. Após o término você verá uma mensagem de sucesso e o backup feito, com mostra a imagem:
+
+<img src="https://goo.gl/eQtkHr">
+
+Você pode ainda, fazer download do backup feito. Basta clicar na nuvem localizada no canto direito, seu arquivo será preparado e depois clique em 'Baixe aqui o arquivo':
+
+<img src="https://goo.gl/gMU8dV">
+
 
 
