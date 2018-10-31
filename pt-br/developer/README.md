@@ -15,4 +15,52 @@ O MOKR é dividido em dois módulos o client e o api. No client, temos todo o fr
 É importante frisar que devido ao uso do [Quasar Framework](https://quasar-framework.org) em seu desenvolvimento, o MOKR está pronto para funcionar em qualquer plataforma, seja ela mobile (Android ou iOS), web ou desktop. Portanto, o desenvolvedor não precisa preocupar-se em desenvolver mais uma aplicação para se comunicar com o MOKR, se ele usa a versão web e quer uma versão mobile por exemplo, ele pode simplesmente gerar um build para mobile e terá as mesmas funcionalidades da versão web, incluindo a comunicação entre as duas plataformas.
 :::
 
-Dito isto, é recomendável que o desenvolvedor tenha noções de <b>JavaScript</b>, <b>HMTL</b> e <b>CSS</b> para poder trabalhar com o módulo client e de <b>PHP</b> para trabalhar com o módulo API.
+Dito isto, é recomendável que o desenvolvedor tenha noções de JavaScript, HMTL e CSS para poder trabalhar com o módulo client e de PHP para trabalhar com o módulo API.
+
+## Instalações necessárias
+
+Para desenvolver, é necessário que sua máquina tenha as seguintes configurações:
+
+::: tip Client
+[NodeJS](https://nodejs.org) >= 8.9.0
+:::
+
+Instalando o Vue Cli e o Quasar Global:
+
+```js
+npm install -g vue-cli
+npm install -g quasar-cli
+```
+
+Você também precisa ter o PHP instalado em sua máquina.
+
+::: tip Server
+[PHP7](http://php.net) >= 7.1
+:::
+
+Use esta linha de comando para instalá-lo:
+
+```php
+composer install
+```
+
+Depois de instalados os itens acima, seu ambiente de desenvolvimento estará pronto.
+
+## Clonando projeto no GitHub
+
+Você pode acessar o nosso repositório clicando nesse [link](https://github.com/mangrowe) ou no menu localizado no topo do site. Uma vez na página do GitHub, perceba que existem três projetos à sua disposição porém, os que você vai precisar mesmo são o client e o api, como destaca a imagem:
+
+<img src="https://goo.gl/JsxYkL">
+
+Selecione o projeto client e rode o seguinte comando:
+
+:::v-pre
+    git clone https://github.com/mangrowe/client.git
+:::
+
+Após isso, selecione o projeto api e rode o seguinte comando:
+
+:::v-pre
+    git clone https://github.com/mangrowe/api.git
+:::
+

@@ -27,30 +27,3 @@ Eles são trimestrais seguindo o conceito OKR, mas também podem ser, por exempl
 ## Ciclos Operacionais
 
 São onde os objetivos dos ciclos estratégicos e táticos são divididos em objetivos menores, para que possam ser concluídos mais facilmente.
-
-## Requisitos
-
-Para usar nossa aplicação, é necessário que sua máquina tenha as seguintes configurações:
-
-::: tip Client
-[NodeJS](https://nodejs.org) >= 8.9.0
-:::
-
-Instalando o Vue Cli e o Quasar Global:
-
-```js
-npm install -g vue-cli
-npm install -g quasar-cli
-```
-
-Você também precisa ter o PHP instalado em sua máquina.
-
-::: tip Server
-[PHP7](http://php.net) >= 7.1
-:::
-
-Use esta linha de comando para instalá-lo:
-
-```php
-composer install
-```

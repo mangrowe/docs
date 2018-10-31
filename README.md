@@ -27,30 +27,3 @@ They are quarterly following the OKR concept, but can also be, for example, mont
 ## Operational Cycles
 
 They are where the goals of strategic and tactical cycles are broken down into smaller goals, so they can be completed more easily.
-
-## Requirements
-
-To use our application, it is necessary that your machine has the following configurations:
-
-::: tip Client
-[NodeJS](https://nodejs.org) >= 8.9.0
-:::
-
-Installing Vue Cli and Quasar Global: 
-
-```js
-npm install -g vue-cli
-npm install -g quasar-cli
-```
-
-You also need to have PHP installed on your machine.
-
-::: tip Server
-[PHP7](http://php.net) >= 7.1
-:::
-
-Use this command line to install it:
-
-```php
-composer install
-```

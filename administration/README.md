@@ -269,7 +269,7 @@ After clicking the print button, your browser will open the print manager. Note 
 You can tell by logging in to the system that the MOKR home page is made up of two components: one with the organizational progress chart and one containing the latest system updates.
 
 ::: warning IMPORTANT
-The latest updates serve to show to all users the modifications that were made, by whom they were made and when they were made in Time, Objective and Key Result.
+The latest updates serve to show to all users the modifications that were made, by whom they were made and when they were made in Teams, Objective and Key Result.
 :::
 
 Look at the image below:
