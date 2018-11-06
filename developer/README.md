@@ -63,3 +63,39 @@ After that, select the api project and run the following command:
 :::v-pre
     git clone https://github.com/mangrowe/api.git
 :::
+
+## Installing the projects
+
+After you have cloned the GitHub projects, follow these steps to install the projects:
+
+For the Client, use:
+
+:::v-pre
+    npm install
+:::
+
+::: danger ATTENTION
+Be sure to use the command inside the cloned project directory, if you are not using it:
+:::v-pre
+    cd project_directory
+:::
+
+After the installation is complete, run the application using:
+
+:::v-pre
+    quasar dev
+:::
+
+For the API use:
+
+:::v-pre
+    composer global require laravel/installer
+:::
+
+After the installation is complete, run the application using:
+
+:::v-pre
+    php artisan serve
+:::
+
+You can go to the [Laravel](https://laravel.com/docs/5.7) documentation if you still have any questions.
