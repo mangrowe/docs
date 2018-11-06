@@ -29,7 +29,8 @@ module.exports = {
                     { text: 'Administrator Guide', link: '/administration/' },
                     { text: 'Developer Guide', link: '/developer/' },
                     { text: 'ManGve', link: 'http://mangve.org' },
-                    { text: 'GitHub', link: 'https://github.com/mangrowe' }
+                    { text: 'GitHub', link: 'https://github.com/mangrowe' },
+                    { text: 'Mangrowe', link: 'http://mangrowe.com' }
                 ],
                 sidebar: [
                     '/',
@@ -52,7 +53,8 @@ module.exports = {
                     { text: 'Guia do Administrador', link: '/pt-br/administration/' },
                     { text: 'Guia do Desenvolvedor', link: '/pt-br/developer/' },
                     { text: 'ManGve', link: 'http://mangve.org' },
-                    { text: 'GitHub', link: 'https://github.com/mangrowe' }
+                    { text: 'GitHub', link: 'https://github.com/mangrowe' },
+                    { text: 'Mangrowe', link: 'http://mangrowe.com' }
                 ],
                 algolia: {},
                 sidebar: [

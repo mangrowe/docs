@@ -140,7 +140,9 @@ Click Objective info and view this result:
 
 <img src="https://goo.gl/xcEy7F">
 
-> Note the Edit button in the lower right corner of the page. This gives you the ability to edit the objective you are viewing.
+:::danger ATTENTION
+Note the Edit button in the lower right corner of the page. This gives you the ability to edit the objective you are viewing.
+:::
 
 Click Add and you will be redirected to the Key Results registration page. Fill in the fields and note that the key results can be numeric:
 
@@ -157,6 +159,10 @@ Regardless of the format you choose, the save button is the final step in creati
 Note the newly created key result and the progress indicator, which will change according to the Check-ins that each key result will receive. To check in a key result, click on the desired key result and get this result:
 
 <img src="https://goo.gl/HnyqEp">
+
+:::danger ATTENTION
+Note the Edit button in the lower right corner of the page. As with creating the objective, this gives you the ability to edit the key result you are viewing.
+:::
 
 Select the check-in button, then on the Check-In page, select the New button:
 
@@ -187,6 +193,50 @@ Note that on this page, you can view all the key result information again, inclu
 <img src="https://goo.gl/QWcQLL">
 
 You may note that objective progress has changed according to the current progress of the key outcome. The progress of the goal will vary according to the amount of key results.
+
+## Editing Objective, Key Result and Check-In
+
+As highlighted in the section above, you can edit your objectives, key results, and check-ins. We'll start by demonstrating how to edit a objective. Navigate to the side menu Objectives, note the goal listing page being displayed. When you click on a goal from the list, you will see this page:
+
+<img src="https://goo.gl/u99RUV">
+
+Note the highlight in the image for the Edit button. Select it and see this page as a result:
+
+<img src="https://goo.gl/VZKBdP">
+
+Let's change the Organizational Unit and its corresponding tag and select the Update button:
+
+<img src="https://goo.gl/D2ZkYW">
+
+After you click Update, you can view this page:
+
+<img src="https://goo.gl/HXG9P2">
+
+Note the changes made to the objective, as shown in the image above. Now, our next step is to edit a Key Result. Just as in Objective, select the Key Result side menu and be redirected to the key results listing, after that select an item from the list and get that page:
+
+<img src="https://goo.gl/o54ro5">
+
+Let's select the Edit button and change the Key Result result type:
+
+<img src="https://goo.gl/ftg3KA">
+
+Now note after selecting the Refresh the result you will get:
+
+<img src="https://goo.gl/r3L4jK">
+
+Note that the progress of the key result that was once at 10% is now at 0%. This is due to the change in result type, as we opted for the Boolean option and marked "To do", progress will not progress until you receive a check-in. Now, edit a check-in. Navigate to a key result, and select the check-in button, you will see the list with all the check-ins of the selected key result:
+
+<img src="https://goo.gl/FSqANH">
+
+We will select the highlighted check in the image above and then we will get the page displayed below:
+
+<img src="https://goo.gl/SE2Zht">
+
+Let's edit the description, progress, and confidence level:
+
+<img src="https://goo.gl/ntBmfJ">
+
+After selecting the Refresh button, as the image demonstrates, your Check In will be edited.
 
 ## Reporting Impediments
 

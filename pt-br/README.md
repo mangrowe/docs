@@ -22,7 +22,7 @@ Eles podem ser anuais ou podem ter toda a duração do planejamento estratégico
 
 ## Cliclos Táticos
 
-Eles são trimestrais seguindo o conceito OKR, mas também podem ser, por exemplo, mensais. Desde os ciclos TÁTICOS trimestrais em um ano, é possível ter 4 ciclos. Sendo mensalmente, teríamos 12 ciclos. A organização que usa o MOKR é que decidirá o período de tempo de cada ciclo.
+Eles são trimestrais seguindo o conceito OKR, mas também podem ser, por exemplo, mensais. Desta forma, se forem trimestrais, em um ano, é possível ter 4 ciclos. Sendo mensalmente, teríamos 12 ciclos. A organização que usa o MOKR é que decidirá o período de tempo de cada ciclo.
 
 ## Ciclos Operacionais
 

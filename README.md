@@ -22,7 +22,7 @@ They can be annual or they can have the entire duration of the organization's st
 
 ## Tactical Cycles
 
-They are quarterly following the OKR concept, but can also be, for example, monthly. Since the quarterly TACTICAL cycles in one year, it is possible to have 4 cycles. Being monthly, we would have 12 cycles. The organization that uses the MOKR is that it will decide the time period of each cycle.
+They are quarterly following the OKR concept, but can also be, for example, monthly. Thus, if they are quarterly, in one year, it is possible to have 4 cycles. Being monthly, we would have 12 cycles. The organization that uses the MOKR is that it will decide the time period of each cycle.
 
 ## Operational Cycles
 

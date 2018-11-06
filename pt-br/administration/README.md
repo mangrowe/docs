@@ -4,7 +4,7 @@
 
 Se você chegou aqui, deve ter notado que o MOKR tem algumas funções que são fundamentais para sua operação. Nesta seção, descreveremos algumas delas para que você possa usar nosso sistema com muito mais propriedade. Mas antes disso, você também precisa estar ciente de que existe uma hierarquia na criação de OKRs e isso será explicado agora.
 
-Para a criação de um OKR, é preciso que você tenha um objetivo (O) e também que você tenha os resultados chave (KR) para que este objetivo seja alcançado. Os objetivos sempre devem ser descrições qualitativas memoráveis do que deseja alcançar. Os objetivos devem ser curtos, inspiradores e envolventes. Um Objetivo deve motivar e desafiar a equipe. Já os resultados chave são um conjunto de métricas que medem o seu progresso em direção ao Objetivo. Para cada Objetivo, você deve ter um conjunto resultados chave. A melhor maneira de exemplificar como funciona um OKR, é a fórmula de [John Doerr](https://en.wikipedia.org/wiki/John_Doerr), que diz:
+Para a criação de um OKR, é preciso que você tenha um objetivo (O) e também que você tenha os resultados chave (KR) para que este objetivo seja alcançado. Os objetivos sempre devem ser descrições qualitativas memoráveis do que deseja alcançar. Os objetivos devem ser curtos, inspiradores e envolventes. Um Objetivo deve motivar e desafiar a equipe. Já os resultados chave são um conjunto de métricas que medem o seu progresso em direção ao Objetivo. Para cada Objetivo, você deve ter um conjunto de resultados chave. A melhor maneira de exemplificar como funciona um OKR, é a fórmula de [John Doerr](https://en.wikipedia.org/wiki/John_Doerr), que diz:
 
 ::: tip FÓRMULA
 Eu <b>vou</b> (O) <b>medido por</b> (esse conjunto de KRs).
@@ -142,7 +142,9 @@ Clique em Informações do objetivo e visualize esse resultado:
 
 <img src="https://goo.gl/xcEy7F">
 
-> Note o botão Editar, no canto direito inferior da página. Este, dá a possibilidade de você editar o objetivo que está visualizando.
+:::danger ATENÇÃO
+Note o botão Editar, no canto direito inferior da página. Este, dá a possibilidade de você editar o objetivo que está visualizando.
+:::
 
 Clique em Adicionar e será redirecionado para a página de cadastro de Resultados Chave. Preencha os campos e note que, os resultados chaves podem ser numéricos:
 
@@ -159,6 +161,10 @@ Independente do formato que a sua escolha, o botão salvar é o passo final para
 Note o resultado chave recém criado e ao lado direito, o indicador de progresso, que irá mudar de acordo com os Check-Ins que cada resultado chave receberá. Para fazer o check-in em um resultado chave, clique no resultado chave desejado e obtenha esse resultado:
 
 <img src="https://goo.gl/HnyqEp">
+
+:::danger ATENÇÃO
+Note o botão Editar, no canto direito inferior da página. Assim como na criação do objetivo, este, dá a possibilidade de você editar o resultado chave que está visualizando.
+:::
 
 Selecione o botão check-in, sem seguida na página de Check-In, selecione o botão novo.
 
@@ -189,6 +195,50 @@ Note que nessa página, você pode visualizar mais uma vez todas as informaçõe
 <img src="https://goo.gl/QWcQLL">
 
 Você pode observar, que o progresso do objetivo foi alterado de acordo com o progresso atual do resultado chave. O progresso do objetivo irá variar de acordo com a quantidade de resultados chave.
+
+## Editando Objetivo, Resultado Chave e Check-In
+
+Como foi destacado na seção acima, você pode editar seus objetivos, resultados chave e check-ins. Começaremos demonstrando como editar um objetivo. Navegue até o menu lateral Objetivos, note a página de listagem de objetivos sendo exibida. Ao clicar em um objetivo da lista, você verá essa página:
+
+<img src="https://goo.gl/u99RUV">
+
+Note o destaque na imagem para o botão Editar. Selecione-o e veja essa página como resultado:
+
+<img src="https://goo.gl/VZKBdP">
+
+Vamos alterar a Unidade Organizacional e sua tag correspondente e selecioanr o botão Atualizar:
+
+<img src="https://goo.gl/D2ZkYW">
+
+Após clicar em Atualizar, você pode visualizar essa página:
+
+<img src="https://goo.gl/HXG9P2">
+
+Observe as alterações feitas no objetivo, conforme na imagem acima. Agora, nosso próximo passo é editar um Resultado Chave. Assim como em Objetivo, selecione o menu lateral Resultado Chave e seja redirecionado pra listagem de resultados chave, após isso, selecione um item da lista e obtenha essa página:
+
+<img src="https://goo.gl/o54ro5">
+
+Vamos selecionar o botão Editar e alterar o tipo de resultado do Resultado Chave:
+
+<img src="https://goo.gl/ftg3KA">
+
+Agora, note após selecionar o botão Atualizar o resultado que você irá obter:
+
+<img src="https://goo.gl/r3L4jK">
+
+Note, que o progresso do resultado chave que antes estava em 10%, agora está em 0%. Isso ocorre devido a mudança de tipo de resultado, como optamos pela opção booleana e marcamos "A fazer", o progresso não obterá progresso até receber um check-in. Vamos agora, editar um check-in. Navegue até um resultado chave, e selecione o botão check-in, você irá ver a lista com todos os check-ins do resultado chave selecionado:
+
+<img src="https://goo.gl/FSqANH">
+
+Selecionaremos o check-in destacado na imagem acima em seguida obteremos a página exibida abaixo:
+
+<img src="https://goo.gl/SE2Zht">
+
+Vamos editar a descrição, progresso e nível de confiança:
+
+<img src="https://goo.gl/ntBmfJ">
+
+Após selecionar o botão Atualizar, como a imagem demonstra, o seu Check-In será editado.
 
 ## Relatando Impedimentos
 
@@ -309,6 +359,4 @@ Após clicar em SIM, o backup será iniciado. Após o término você verá uma m
 Você pode ainda, fazer download do backup feito. Basta clicar na nuvem localizada no canto direito, seu arquivo será preparado e depois clique em 'Baixe aqui o arquivo':
 
 <img src="https://goo.gl/gMU8dV">
-
-
 

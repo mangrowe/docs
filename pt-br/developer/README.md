@@ -38,11 +38,14 @@ Você também precisa ter o PHP instalado em sua máquina.
 [PHP7](http://php.net) >= 7.1
 :::
 
-Use esta linha de comando para instalá-lo:
+Para instalar o PHP, é necessário fazer a instalação do Composer. Faça o download neste [link.](https://getcomposer.org/download/) Após feito o download, use o sequinte comando:
 
 ```php
-composer install
+mv composer.phar /usr/local/bin/composer
 ```
+:::warning IMPORTANTE
+Caso ainda possua dúvida sobre a instalação do Composer, acesse esse [link.](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-macos)
+:::
 
 Depois de instalados os itens acima, seu ambiente de desenvolvimento estará pronto.
 
