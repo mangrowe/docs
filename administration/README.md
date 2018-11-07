@@ -238,6 +238,26 @@ Let's edit the description, progress, and confidence level:
 
 After selecting the Refresh button, as the image demonstrates, your Check In will be edited.
 
+## Cloning a Objective
+
+In MOKR, you can also clone a objective. This is so you do not have to re-create a objective if you need to. You can clone by navigating to the Objectives menu, and selecting the Clone button, as in the image below:
+
+<img src="https://goo.gl/aGJrKx">
+
+When you select the Clone button, the result will be this:
+
+<img src="https://goo.gl/Vnrwsg">
+
+Note that during cloning, the objective and its key results are cloned. After, the clone this is the result you will get:
+
+<img src="https://goo.gl/zQtPgj">
+
+Let's change the goal title to "Objetivo Clonado" and we'll go back to the list of system objectives and you'll see that there will still be a "Objetivo exemplo":
+
+<img src="https://goo.gl/o6jTwX">
+
+As you can see in the image above, the objectives really are in the listing. Cloning can be useful when you have objectives that are enhanced with each other, or when you want to change your objective but do not want to change your key results. In the end, you decide how to use it.
+
 ## Reporting Impediments
 
 In the preview interface of a key result, you will find the Impediments button:
@@ -357,3 +377,17 @@ After you click SIM, the backup will start. After the completion you will see a 
 You can even download the backup done. Just click on the cloud located in the right corner, your file will be prepared and then click on 'Baixe aqui o arquivo':
 
 <img src="https://goo.gl/gMU8dV">
+
+## Doing Restore
+
+System restore allows you to go back to an older database instance, one that you backed up, for example. This function gives you more security in relation to its storage because it allows you to manipulate it in any way you prefer. To restore, select the gear in the upper right corner, then select the Backups tab:
+
+<img src="https://goo.gl/N78rQK">
+
+Note that the backup list is already displayed. So let's do the restore for the first backup of the list. Select the restore button located next to the cloud button (backup button) and get this result:
+
+<img src="https://goo.gl/ApJBQp">
+
+<img src="https://goo.gl/tZNw3Y">
+
+After this you will be redirected to the login page of the system, once you have logged in, you will notice that the restore has been done successfully.

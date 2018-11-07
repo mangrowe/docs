@@ -240,6 +240,26 @@ Vamos editar a descrição, progresso e nível de confiança:
 
 Após selecionar o botão Atualizar, como a imagem demonstra, o seu Check-In será editado.
 
+## Clonando um Objetivo
+
+No MOKR, você também pode clonar um objetivo. Isso serve para que você não precise recadastrar um objetivo, caso seja necessário. Você pode efetuar a clonagem, navegando até o menu Objetivos, e selecinando o botão Clonar, como na imagem abaixo:
+
+<img src="https://goo.gl/aGJrKx">
+
+Ao selecionar o botão Clonar, o resultado será este:
+
+<img src="https://goo.gl/Vnrwsg">
+
+Observe que durante a clonagem, o objetivo e seus resultados chaves são clonados. Após, o clone esse é o resultado que você vai obter:
+
+<img src="https://goo.gl/zQtPgj">
+
+Vamos trocar o título do objetivo por "Objetivo Clonado" e vamos voltar a lista de objetivos do sistema e você verá que ainda existirá o "Objetivo Exemplo":
+
+<img src="https://goo.gl/o6jTwX">
+
+Como você pode ver na imagem acima, os objetivos realmente estão na listagem. A clonagem pode ser útil quando você tem objetivos realcinados uns com outros, ou quando você quer mudar o seu objetivo mas não quer trocar seus resultados chaves. No final, você decide como utilizar.
+
 ## Relatando Impedimentos
 
 Na interface de visualização de um resultado chave, você irá encontrar o botão Impedimentos:
@@ -360,3 +380,16 @@ Você pode ainda, fazer download do backup feito. Basta clicar na nuvem localiza
 
 <img src="https://goo.gl/gMU8dV">
 
+## Fazendo Restore
+
+O restore do sistema permite que você volte à uma instância de banco de dados mais antiga, uma que você fez o backup, por exemplo. Essa função te dá mais segurança em relação ao seu armazenamento pois, te permite manipula-lo da maneira que preferir. Para fazer o restore, selecione a engrenagem no canto direito superior, logo depois selecione a aba Backups:
+
+<img src="https://goo.gl/N78rQK">
+
+Perceba que a lista de backups já é exibida. Então, vamos fazer o restore para o primeiro backup da lista. Selecione o botão de restore, localizado ao lado esquedo do botão em forma de nuvem (botão de backup) e obtenha esse resultado:
+
+<img src="https://goo.gl/ApJBQp">
+
+<img src="https://goo.gl/tZNw3Y">
+
+Após isso você será redirecionado para a página de login do sistema, feito o login, você irá perceber que o restore foi feito com sucesso.
